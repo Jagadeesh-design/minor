@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+streamlit 
+opencv-python 
+deepface 
+Pillow 
+tensorflow
+scikit-learn
+scikit-image7
